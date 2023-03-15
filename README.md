@@ -1,3 +1,7 @@
+<a href="https://youtu.be/otCpCn0l4Wo">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhailkhan&count_private=true" />
+</a>
+
 - 👋 Hi, I’m @zuhailkhan
 - 👀 I’m interested in Design and Development of Javascript Applications.
 - 🌱 I’m currently learning Typescript and Ionic Framework
