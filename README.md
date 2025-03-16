@@ -1,12 +1,12 @@
 <a href="https://youtu.be/dQw4w9WgXcQ">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhailkhan&count_private=true&hide=HTML,Less,CSS&hide_progress=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhailkhan&count_private=true&hide=HTML,Less,CSS&hide_progress=true&langs_count=10" />
 </a>
 
 - 👋 Hi, I’m @zuhailkhan
 - 👀 I’m interested in Design and Development of Javascript/Typescript Applications.
-- 🌱 I’m currently learning Java, .NET and Data Structures and Algorithms.
-- ❤️ My techstack includes React, Vue, NextJS, NuxtJS, Tailwind, Vuetify, Ionic and Capacitor, Bootstrap, Drupal CMS, Sanity CMS etc
-- 💞️ I’m looking to collaborate on Vue, ReactJS Applications, Open Source Projects, Linux Kernel Development etc
+- 🌱 I’m currently learning Go, Rust, Data Structures and Algorithms and System Design.
+- ❤️ My techstack includes React, Vue, Node, Deno, NextJS, NuxtJS, Tailwind, Vuetify, Ionic and Capacitor, Bootstrap, Headless CMS(Wordpress, Sanity) etc
+- 💞️ I’m looking to collaborate on Vue, ReactJS Applications, Open Source Projects and Linux Kernel Development
 - 📫 You can reach me on zuhailahamedkhan@gmail.com
 
 <!---
