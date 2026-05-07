@@ -1,7 +1,6 @@
 <a href="https://youtu.be/dQw4w9WgXcQ">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhailkhan&count_private=true&hide=HTML,Less,CSS&langs_count=10&layout=donut-vertical" />
+  <img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zuhailkhan&count_private=true&hide=HTML,Less,CSS&langs_count=10&layout=donut-vertical" />
 </a>
-
 - 👋 Hi, I’m @zuhailkhan
 - 👀 I’m interested in Design and Development of Javascript/Typescript Applications.
 - 🌱 I’m currently learning Go, Rust, Data Structures and Algorithms and System Design.
